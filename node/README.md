@@ -22,8 +22,8 @@ forcing them off the node:
 
 Please see the individual subcommand help for detailed usage information.
 
-Subcommands:
-config View or modify client configuration details
-drain Toggle drain mode on a given node
-eligibility Toggle scheduling eligibility for a given node
+Subcommands:  
+config View or modify client configuration details  
+drain Toggle drain mode on a given node  
+eligibility Toggle scheduling eligibility for a given node  
 status Display status information about nodes
