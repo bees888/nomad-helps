@@ -15,11 +15,11 @@ Stream a task's logs:
 
 Please see the individual subcommand help for detailed usage information.
 
-Subcommands:
-exec Execute commands in task
-fs Inspect the contents of an allocation directory
-logs Streams the logs of a task.
-restart Restart a running allocation
-signal Signal a running allocation
-status Display allocation status information and metadata
+Subcommands:  
+exec Execute commands in task  
+fs Inspect the contents of an allocation directory  
+logs Streams the logs of a task.  
+restart Restart a running allocation  
+signal Signal a running allocation  
+status Display allocation status information and metadata  
 stop Stop and reschedule a running allocation
